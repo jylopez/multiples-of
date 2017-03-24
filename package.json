@@ -1,0 +1,28 @@
+{
+  "name": "multiples-of",
+  "version": "1.0.0",
+  "description": "Returns all multiples of an array of numbers below a maximum number",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test/test.js"
+  },
+  "keywords": [
+    "array",
+    "multiples",
+    "natural",
+    "numbers",
+    "max",
+    "project",
+    "euler"
+  ],
+  "author": "Jershon Lopez",
+  "license": "MIT",
+  "devDependencies": {
+    "tape": "^4.4.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jylopez/multiples-of.git"
+  },
+  "homepage": "https://github.com/jylopez/multiples-of"
+}
